@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Math
@@ -31,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2716-prime-subtraction-operation) |
+## Sorting
+|  |
+| ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 <!---LeetCode Topics End-->
