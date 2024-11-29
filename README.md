@@ -43,6 +43,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [1972-rotating-the-box](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -120,10 +123,16 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0787-sliding-puzzle) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
