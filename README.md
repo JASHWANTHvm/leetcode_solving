@@ -45,6 +45,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
@@ -119,8 +120,10 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
