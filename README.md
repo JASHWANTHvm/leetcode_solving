@@ -128,6 +128,7 @@
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -135,4 +136,12 @@
 |  |
 | ------- |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
