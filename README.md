@@ -9,6 +9,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
@@ -56,6 +57,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2716-prime-subtraction-operation) |
@@ -98,6 +100,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Two Pointers
@@ -129,6 +132,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2164-two-best-non-overlapping-events](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -154,6 +158,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
