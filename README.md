@@ -49,6 +49,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2164-two-best-non-overlapping-events) |
@@ -90,6 +91,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2089-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1917-maximum-average-pass-ratio](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
