@@ -49,6 +49,7 @@
 | [0001-two-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0189-rotate-array) |
 | [0494-target-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0780-max-chunks-to-make-sorted) |
@@ -88,6 +89,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0189-rotate-array) |
 | [2716-prime-subtraction-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
