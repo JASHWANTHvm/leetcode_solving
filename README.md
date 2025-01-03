@@ -71,6 +71,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2358-number-of-ways-to-split-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2358-number-of-ways-to-split-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
 |  |
