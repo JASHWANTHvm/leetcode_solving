@@ -290,4 +290,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
