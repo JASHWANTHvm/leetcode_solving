@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0128-longest-consecutive-sequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -21,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -42,6 +44,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3394-minimum-array-end) |
 ## Array
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
