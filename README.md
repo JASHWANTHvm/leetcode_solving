@@ -49,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0189-rotate-array) |
@@ -92,6 +93,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0189-rotate-array) |
 | [2716-prime-subtraction-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -194,6 +196,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0048-rotate-image) |
 | [0787-sliding-puzzle](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1972-rotating-the-box) |
