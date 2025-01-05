@@ -25,6 +25,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2465-shifting-letters-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -78,6 +79,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2465-shifting-letters-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -191,6 +193,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
 |  |
