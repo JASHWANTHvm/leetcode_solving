@@ -226,6 +226,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0787-sliding-puzzle) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -249,6 +250,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0222-count-complete-tree-nodes) |
@@ -296,6 +299,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0222-count-complete-tree-nodes) |
