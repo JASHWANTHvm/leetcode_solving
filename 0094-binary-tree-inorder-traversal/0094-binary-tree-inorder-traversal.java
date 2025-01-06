@@ -1,8 +1,7 @@
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- *   
-   int val;
+ *     int val;
  *     TreeNode left;
  *     TreeNode right;
  *     TreeNode() {}
@@ -16,15 +15,20 @@
  */
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> res = new ArrayList<>();
-        helper(root,res);
-        return res;
-    }
-    public void helper(TreeNode root,List<Integer> res)
-    {
-        if(root == null) return;
-        helper(root.left,res);
-        res.add(root.val);
-        helper(root.right,res);
+       Stack<TreeNode> s = new Stack();
+       ArrayList<Integer> a = new ArrayList(); 
+       while(true)
+       {
+        while(root != null)
+        {
+            s.push(root);
+            root=root.left;
+        }
+        if(s.empty()) break;
+        root = s.pop();
+        a.add(root.val);
+        root=root.right;
+       }
+       return a;
     }
 }
