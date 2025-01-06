@@ -159,6 +159,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -243,6 +244,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2201-valid-arrangement-of-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -275,6 +277,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -283,6 +286,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
