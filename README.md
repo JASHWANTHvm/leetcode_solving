@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0075-sort-colors) |
@@ -114,6 +115,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0222-count-complete-tree-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
