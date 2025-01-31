@@ -81,6 +81,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1063-best-sightseeing-pair) |
@@ -243,6 +244,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0048-rotate-image) |
 | [0787-sliding-puzzle](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2089-maximum-matrix-sum) |
@@ -270,6 +272,7 @@
 | [0226-invert-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0854-making-a-large-island) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -299,6 +302,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0854-making-a-large-island](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0854-making-a-large-island) |
 | [2201-valid-arrangement-of-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -386,6 +390,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0128-longest-consecutive-sequence) |
+| [0854-making-a-large-island](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0854-making-a-large-island) |
 ## Linked List
 |  |
 | ------- |
