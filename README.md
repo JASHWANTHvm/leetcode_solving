@@ -21,6 +21,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -122,6 +123,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3427-special-array-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -261,6 +263,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
