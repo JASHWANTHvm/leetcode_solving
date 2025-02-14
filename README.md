@@ -93,6 +93,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1364-tuple-with-same-product](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -139,6 +140,7 @@
 | [0012-integer-to-roman](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0189-rotate-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2358-number-of-ways-to-split-array) |
@@ -424,4 +427,12 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
