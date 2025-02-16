@@ -99,6 +99,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1755-defuse-the-bomb) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1917-maximum-average-pass-ratio) |
@@ -411,6 +412,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0494-target-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Union Find
 |  |
