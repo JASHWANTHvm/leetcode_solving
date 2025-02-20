@@ -17,6 +17,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -44,6 +45,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -110,6 +112,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2107-find-unique-binary-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -422,6 +425,7 @@
 | [1160-letter-tile-possibilities](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Union Find
