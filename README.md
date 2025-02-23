@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0128-longest-consecutive-sequence) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1160-letter-tile-possibilities) |
@@ -96,6 +97,7 @@
 | [0787-sliding-puzzle](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -393,6 +395,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -415,6 +418,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -463,4 +467,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1477-product-of-the-last-k-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
