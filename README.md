@@ -128,6 +128,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -314,6 +315,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -321,6 +323,7 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2201-valid-arrangement-of-pairs) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -346,6 +349,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Eulerian Circuit
@@ -400,6 +404,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
