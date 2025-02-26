@@ -111,6 +111,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1755-defuse-the-bomb) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1917-maximum-average-pass-ratio) |
@@ -374,6 +375,7 @@
 | [1063-best-sightseeing-pair](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1063-best-sightseeing-pair) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
 |  |
