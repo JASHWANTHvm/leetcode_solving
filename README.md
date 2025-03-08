@@ -57,6 +57,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2465-shifting-letters-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -69,6 +70,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2868-continuous-subarrays) |
