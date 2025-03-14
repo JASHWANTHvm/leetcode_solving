@@ -114,6 +114,7 @@
 | [0952-word-subsets](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1477-product-of-the-last-k-numbers) |
@@ -189,6 +190,7 @@
 | [0035-search-insert-position](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0222-count-complete-tree-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
