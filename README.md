@@ -103,6 +103,7 @@
 | [0041-first-missing-positive](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0189-rotate-array) |
 | [0494-target-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0494-target-sum) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0088-merge-sorted-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/2164-two-best-non-overlapping-events) |
@@ -246,6 +248,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
