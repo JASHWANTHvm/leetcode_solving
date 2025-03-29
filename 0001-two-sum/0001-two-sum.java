@@ -7,8 +7,8 @@ class Solution {
         {
             if(m.containsKey(target-nums[i]))
             {
-                arr[0]=i;
-                arr[1]=m.get(target-nums[i]);
+                arr[1]=i;
+                arr[0]=m.get(target-nums[i]);
             }
             else
             {
