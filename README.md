@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0020-valid-parentheses) |
@@ -249,6 +250,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0075-sort-colors) |
@@ -418,6 +420,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0005-longest-palindromic-substring) |
 | [0494-target-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
