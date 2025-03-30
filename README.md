@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0041-first-missing-positive) |
@@ -194,6 +195,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0222-count-complete-tree-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -529,5 +531,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JASHWANTHvm/leetcode_solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
